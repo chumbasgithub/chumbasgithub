@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chumba</h1>
-<h3 align="center">I enjoy learning (is a subtitle I can commit too><)</h3>
+<h3 align="center">I enjoy learning.</h3>
 
 - 📫 How to reach me **laurakiplagat254@gmail.com**
 
 - ⚡ Fun fact **I find washing dishes very therapeutic**
 
-<h3 align="left">Connect with me:</h3>
+ 
+  
+  
+<h3 align="left">Connect with me:  [LinkedIn] (https://www.linkedin.com/in/laura-kiplagat-966ba71b0/)</h3>
 <p align="left">
 </p>
 
