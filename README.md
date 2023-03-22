@@ -4,11 +4,35 @@
 - 📫 How to reach me **laurakiplagat254@gmail.com**
 
 - ⚡ Fun fact **I find washing dishes very therapeutic**
+- 
 
  
   
   
 <h3 align="left">Connect with me:  <a href= "https://www.linkedin.com/in/laura-kiplagat-966ba71b0/">LinkedIn</a></h3>
+<h3 align="left"> Projects: 
+ <table>
+  <tr>
+   <th>Project Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+   <td><a href= "https://students.purchase.edu/chumba.kiplagat">Chumba</a></td>
+    <td>Landing page to access links</td>
+  </tr>
+  <tr>
+    <td><a href= "https://students.purchase.edu/chumba.kiplagat/timefy">Timefy</a></td>
+    <td> Inspired by Spotify, using local time and suggests a song for every hour.</td>
+  </tr>
+  <tr>
+    <td><a href= "https://students.purchase.edu/chumba.kiplagat/Radio">+254 Diaspora Radio</a></td>
+    <td> A radio website for Kenyans abroad to access local radio stations.</td>
+  </tr>
+   <tr>
+    <td><a href= "https://students.purchase.edu/chumba.kiplagat/Radio">Rihannna Weather API</a></td>
+    <td> White Plains Weather App that uses a weather API and Rihanna's past outfit to demonstrate the climate of day.</td>
+  </tr>
+</table>
 <p align="left">
 </p>
 
