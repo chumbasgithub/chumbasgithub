@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **laurakiplagat254@gmail.com**
 
-- ⚡ Fun fact **I find washing dishes very therapeutic**
+- 
 - 
 
  
